@@ -4,7 +4,7 @@
 
 - Pull the repo in your local folder using git clone
 - In VS Code open index.html and run it using local host
-- The extension for local host you can use
+- The extension for local host you can use https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 ### Dataset
 To fill in the charts random users were used from this source https://randomuser.me/api/?results=10
